@@ -17,9 +17,6 @@ Weatehr Monitor can see name of city and temperature via zipcode.
   <img width="80%" src="./image/appFrontPage.png" />
 </p>
 
-4. Result
-![](./video/weatherMonitor.gif)
-
 ## Reference
 - [반응형 프로그래밍과 RxJS 이해하기](https://hyunseob.github.io/2016/10/09/understanding-reactive-programming-and-rxjs/)
 - [Open Weather Map API](https://openweathermap.org/)
