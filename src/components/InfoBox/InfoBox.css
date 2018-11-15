@@ -1,0 +1,12 @@
+.InfoBox {
+  margin: 5px;
+  background-color: white;
+}
+
+.InfoBox #zipcode {
+  margin: 5px;
+}
+
+.InfoBox #temp {
+  margin: 5px;
+}

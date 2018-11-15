@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -42,3 +43,37 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# RxJS Weather Monitor
+World Weather Monitor via Zipcode. 
+
+## Work Process
+1. Design React Component Hierarchy
+<p align="center">
+  <img width="80%" src="./image/reactComponentHierarchyDesign.png">
+</p>
+
+2. Props/State Analysis
+<p align="center">
+  <img width="80%" src="./image/propsStateAnalysis.png">
+</p>
+
+3. Cloning App developed with Vanilla Javascript at 'Reference 1' to React App following the design of 'Process 1'.
+<p align="center">
+  <img width="80%" src="./image/weatherMonitorFrontPage.png">
+</p>
+
+4. Apply Weather API<br>
+1)API: [Open Weather Map](https://openweathermap.org/). Free to use API in limitation via basic account.<br>
+2)Use Axios for API ajax request<br>
+3)Use async/await for Asynchronous ajax request<br>
+
+5. [Test App via GithubPages](https://ginnyang2.github.io/rxjs-weather-monitor/)<br>
+Zipcode example: 94102, 21212 
+
+## More
+Refer to card 'Asynchronous Code Combination]Rxjs of ReactiveX' of Trello Board '[Career Prep](https://trello.com/b/UaQfOI0x)'. 
+
+## Reference
+[반응형 프로그래밍과 RxJS 이해하기](https://hyunseob.github.io/2016/10/09/understanding-reactive-programming-and-rxjs/)
+>>>>>>> 685b6a8d6bd3e6775f8273e4e423910ef285ef15
